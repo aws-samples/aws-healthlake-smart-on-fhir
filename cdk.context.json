@@ -1,0 +1,17 @@
+{
+    "account": "123456789012",
+    "region": "us-east-1",
+    "tagName": "Purpose",
+    "tagValue": "sof-hl",
+    "prefix": "sof-hl-",
+    "datastoreName": "datastorename",
+    "preloadData": false,
+    "preloadDataType": "SYNTHEA",
+    "clientId": "11111111-2222-3333-4444-555555555555",
+    "clientSecret": "abcdefghijklmnopqrstuvxyz",
+    "authEndpoint": "https://main-oauth2-server-link.com/",
+    "authEndpointToken": "https://main-oauth2-server-link.com/oauth2/token",
+    "authEndpointIntrospect": "https://main-oauth2-server-link.com/admin/oauth2/introspect",
+    "srvAPIKey": "srv_pat_aBcDeFgHiJkLmNoPqRsTuVwXyZ",
+    "lambdaConcurentExecutions": 5
+}

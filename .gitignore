@@ -1,5 +1,7 @@
 *.js
 !jest.config.js
+!lambda/check-token.js
+!lambda/func.js
 *.d.ts
 node_modules
 

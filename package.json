@@ -1,6 +1,6 @@
 {
   "name": "smart-on-fhir-healthlake",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "bin": {
     "smart-on-fhir-healthlake": "bin/smart-on-fhir-healthlake.js"
   },
@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "aws-cdk-lib": "2.117.0",
+    "cdk-nag": "^2.27.134",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.21"
   }
