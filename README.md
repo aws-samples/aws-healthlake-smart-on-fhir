@@ -20,8 +20,8 @@ CHECK [the documentation](https://docs.aws.amazon.com/healthlake/latest/devguide
 
 Clone the repository to your local computer:  
 ```
-git clone https://github.com/aws-samples/smart-on-fhir-healthlake.git  
-cd smart-on-fhir-healthlake
+git clone https://github.com/aws-samples/aws-healthlake-smart-on-fhir.git
+cd aws-healthlake-smart-on-fhir
 ```  
 Install the dependencies:  
 ```
